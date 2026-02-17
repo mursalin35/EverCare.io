@@ -1,7 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-export default function ServicePage() {
+const page = () => {
   return (
-    <div>ServicePage</div>
-  )
-}
+    <div>
+      
+    </div>
+  );
+};
+
+export default page;

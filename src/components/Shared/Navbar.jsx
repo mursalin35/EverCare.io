@@ -24,9 +24,35 @@ export default function Navbar() {
             <Link href="/" className="text-gray-700 hover:text-green-600">
               Home
             </Link>
-            <Link href="/services" className="text-gray-700 hover:text-green-600">
-              Services
-            </Link>
+
+
+
+
+         <Link
+  href="/service/baby"
+  className="text-gray-700 hover:text-green-600"
+>
+  Baby Care
+</Link>
+
+<Link
+  href="/service/elderly"
+  className="text-gray-700 hover:text-green-600"
+>
+  Elderly Care
+</Link>
+
+<Link
+  href="/service/sick"
+  className="text-gray-700 hover:text-green-600"
+>
+  Sick People Service
+</Link>
+
+
+
+
+
             <Link href="/my-bookings" className="text-gray-700 hover:text-green-600">
               My Bookings
             </Link>

@@ -1,0 +1,29 @@
+{
+  "baby": {
+    "title": "Baby Care",
+    "desc": "Trusted caregivers for your children ensuring safety and happiness.",
+    "features": [
+      "24/7 Supervision",
+      "Experienced Caregivers",
+      "Customized Daily Routine"
+    ]
+  },
+  "elderly": {
+    "title": "Elderly Care",
+    "desc": "Professional elderly support for health, comfort, and dignity at home.",
+    "features": [
+      "Medical Assistance",
+      "Companionship",
+      "Daily Monitoring"
+    ]
+  },
+  "sick": {
+    "title": "Sick People Service",
+    "desc": "Skilled caregivers for patients at home, including recovery support.",
+    "features": [
+      "Medication Management",
+      "Physical Assistance",
+      "Emergency Support"
+    ]
+  }
+}
