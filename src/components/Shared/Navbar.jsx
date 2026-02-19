@@ -29,25 +29,12 @@ export default function Navbar() {
 
 
          <Link
-  href="/service/baby"
+  href="/service"
   className="text-gray-700 hover:text-green-600"
 >
-  Baby Care
+ Service
 </Link>
 
-<Link
-  href="/service/elderly"
-  className="text-gray-700 hover:text-green-600"
->
-  Elderly Care
-</Link>
-
-<Link
-  href="/service/sick"
-  className="text-gray-700 hover:text-green-600"
->
-  Sick People Service
-</Link>
 
 
 
